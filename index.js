@@ -7,7 +7,7 @@ function rollCall(dwarves){
   }
   return array.join("")
 }
-;
+
 
 
 
@@ -17,6 +17,7 @@ function summonCaptainPlanet(planeteerCalls){
 }
 
 function longPlaneteerCalls(words){
-
+}
 
 function findTheCheese (foods) {
+}
